@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Making it Drive",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T06:13:34.744001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Making it Drive",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_Making_it_Drive_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Making it Drive",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/02_Making_it_Drive_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Making it Drive (KING'S PARADE 男祭り FINAL at TOKYO DOME 2019.12.20)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_Making_it_Drive_(KING'S_PARADE_男祭り_FINAL_at_TOKYO_DOME_2019.12.20)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Making it Drive (Instrumental)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_Making_it_Drive_(Instrumental)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Making it Drive THE LIVE 2022.12.21 at Yokohama Arena",
+      "artist": "Uverworld",
+      "has_synced": false,
+      "path": "select/05_Making_it_Drive_THE_LIVE_2022.12.21_at_Yokohama_Arena_Uverworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Making it Drive",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_Making_it_Drive_UVERworld.txt"
+    }
+  ]
+}
